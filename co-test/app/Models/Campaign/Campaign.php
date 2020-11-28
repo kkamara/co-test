@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Campaign extends Model
 {
-    use HasFactory;
+    use HasFactory, CampaignRelations;
 
     /**
      * Fillable resource items.
