@@ -1,6 +1,6 @@
 # CO-Test
 
- Laravel API Architecture Proposal - working with external services.
+API-consuming Architecture Proposal - working with external services.
 
 ## Installation
 
