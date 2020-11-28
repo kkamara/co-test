@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class CallStat extends Model
 {
-    use HasFactory;
+    use HasFactory, CallStatRelations;
 
     /**
      * Fillable resource items.

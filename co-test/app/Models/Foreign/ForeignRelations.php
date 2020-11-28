@@ -5,7 +5,7 @@ namespace App\Models\Foreign;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Collection;
 use App\Models\QueryType;
-use App\Models\CallStat;
+use App\Models\CallStat\CallStat;
 use App\Models\Campaign;
 
 trait ForeignRelations 
