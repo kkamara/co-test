@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models\CallStat;
+namespace App\Models\QueryType;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Collection;

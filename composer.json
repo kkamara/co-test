@@ -36,7 +36,10 @@
         "psr-4": {
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
-            "Database\\Seeders\\": "database/seeders/"
+            "Database\\Seeders\\": "database/seeders/",
+            "App\\Models\\CallStat\\": "app/Models/CallStat/",
+            "App\\Models\\Campaign\\": "app/Models/Campaign/",
+            "App\\Models\\QueryType\\": "app/Models/QueryType/"
         }
     },
     "autoload-dev": {
