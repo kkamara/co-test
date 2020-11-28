@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models\Producers;
+namespace App\Models\Services\Producers;
 
 use Interfaces\IMicroserviceA;
 

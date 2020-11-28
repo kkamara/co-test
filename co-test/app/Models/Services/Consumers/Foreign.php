@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models\Consumers;
+namespace App\Models\Services\Consumers;
 
 use Interfaces\IForeign;
 
