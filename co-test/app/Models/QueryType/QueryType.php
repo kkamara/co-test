@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class QueryType extends Model
 {
-    use HasFactory;
+    use HasFactory, QueryTypeRelations;
 
     /**
      * Fillable resource items.
